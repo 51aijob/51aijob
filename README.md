@@ -8,3 +8,11 @@ Using HTML, JS, CSS for user interface, and PHP is used for communication betwee
 
 Hopes your joining and contribution ...
 
+
+There are several steps to finish the website:
+
+1) submit resume and parse the pdf format resume and save it to disk and extracting some useful information to database. Create user account by automatically with mail address as account name, phone number as password
+
+2) HR register/login, publish candidate skill requirement. System will match all resumes with algorithm MSE, and return the best batch of resume.
+
+Python is used for finish the mse algorithm, and Jupyter is used for internal data analysis.
